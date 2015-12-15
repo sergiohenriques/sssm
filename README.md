@@ -6,7 +6,7 @@
  
 
 
-  a. For a given stock, 
+   a. For a given stock, 
       	i. Given any price as input, calculate the dividend yield 
       	ii. Given any price as input, calculate the P/E Ratio 
       	iii. Record a trade, with timestamp, quantity of shares, buy or sell indicator and traded price 
