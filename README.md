@@ -27,4 +27,7 @@
 
 For this exercise it was used a basic layered architechture approach.
 
+![Alt text](/blob/master/src/main/resources/architecture.PNG?raw=true "Optional Title")
+https://github.com/sergiohenriques/sssm/blob/master/src/main/resources/architecture.PNG
+
 
