@@ -1,6 +1,7 @@
-Super Simple Stock Market
 
-Requirements 
+#Super Simple Stock Market
+
+##Requirements 
 1. Provide working source code that will:
       a. For a given stock, 
       	i. Given any price as input, calculate the dividend yield 
@@ -10,10 +11,10 @@ Requirements
       b. Calculate the GBCE All Share Index using the geometric mean of prices for all stocks 
 
 
-Constraints & Notes 
+##Constraints & Notes 
 1. Written in one of these languages: 
       ? Java, C#, C++, Python 
 2. No database or GUI is required, all data need only be held in memory 
 3. No prior knowledge of stock markets or trading is required – all formulas are provided below. 
 
-Solution
+##Solution
