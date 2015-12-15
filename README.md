@@ -24,3 +24,7 @@
 3. No prior knowledge of stock markets or trading is required – all formulas are provided below. 
 
 ##Solution
+
+For this exercise it was used a basic layered architechture approach.
+
+
